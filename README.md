@@ -73,10 +73,9 @@ superstore_sales_analysis.sql
 - Technology showed the strongest growth between 2016 and 2017 ($1,986.54 → $2,625.96)
   
 ## Business Recommendations
-- Improve customer retention strategies, as 66 out of 69 customers placed only one order
-- Focus marketing and inventory efforts on the West region, while investigating 
-  low performance in the South
-- Leverage Q4 seasonality (September and November peaks) with targeted marketing campaigns
-- Monitor product-level performance, particularly in Furniture which leads in sales 
-  but warrants margin analysis
+- Improve customer retention strategies, as most customers place only a single order
+- Prioritize marketing and inventory in the West region, while investigating underperformance in the South
+- Leverage Q4 seasonality with targeted marketing campaigns, especially around September and November peaks
+- Monitor product-level performance, particularly Furniture, to assess potential margin optimization opportunities
+  
 ---
